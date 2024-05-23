@@ -42,8 +42,6 @@ set hlsearch "高亮匹配搜索"
 
 set incsearch "每输入一个字符都自动进行匹配"
 
-set spell spelllang=en_us "打开英语单词拼写检查"
-
 set nobackup "不创建备份文件"
 
 set noswapfile "不创建交换文件"
